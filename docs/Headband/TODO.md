@@ -1,0 +1,4 @@
+- [ ] Design IR receivers
+- [ ] Design control board
+- [ ] Design power circuitry
+- [ ] Figure out how the headband part of the headband

@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "b24a4e502b6cb7dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "800ecb97cdbcbc30",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Headband/Control Hardware.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05d9ae1d7e4dad26",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e3b10d2ddd559d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0235f4e90c9a2d3f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "012b8a89e353b030",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0f23374f97c98faf",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fba40b542fd6d90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb6545ba512cd76f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Headband/Control Hardware.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "800ecb97cdbcbc30",
+  "lastOpenFiles": [
+    "Headband/Control Hardware.md",
+    "Headband/TODO.md",
+    "Headband/Functionality.md",
+    "Gun/TODO.md",
+    "Gun/Hardware.md",
+    "Gun/Functionality.md",
+    "Base station/Hardware.md",
+    "Base station/Functionality.md",
+    "Headband/IR Receiver Hardware.md",
+    "LaserTag.md"
+  ]
+}

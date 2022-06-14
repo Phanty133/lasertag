@@ -1,0 +1,6 @@
+- [ ] Rework LED driver to power the LED directly from the battery, instead of going through a 3.3v dropdown
+- [ ] Design power circuitry
+- [ ] Design logic board
+- [ ] Design chassis
+	- [ ] Frenel lens version
+	- [ ] Cone approximation version

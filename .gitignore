@@ -49,3 +49,9 @@ eagle.epf
 
 # file locks introduced since 7.x
 *.lck
+
+# Obsidian
+app.json
+appearance.json
+core-plugins.json
+hotkeys.json
